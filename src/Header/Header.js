@@ -2,7 +2,7 @@ import React from "react";
 import './Header.css';
 import smallRight from '../assets/icons/small-right.png';  //Criei uma variável smallRight para armazenar o caminho desta imagem
 import smallLeft from '../assets/icons/small-left.png';
-import search from '../assets/icons/search.png'
+import search from '../assets/icons/search.png';
 
 const Header = () => {
     return (
