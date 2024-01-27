@@ -4,7 +4,7 @@
     left: 0;
     right: 0;
     background: linear-gradient(to right, #ae2896, #509bf5);
-    padding: 15px 40px;
+    padding: 0px 40px;
     display: flex;
     justify-content: space-between;
 }
@@ -18,7 +18,7 @@
     text-transform: uppercase;
     font-weight: 400;
     font-size: 12px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 
 .disclaimer-premium .disclaimer-premium__subtitle {
@@ -32,10 +32,10 @@
     color: #000000;
     font-size: 16px;
     font-weight: bold;
-    padding: 14px 30px;
+    padding: 11px 35px;
     border: 0px;
     border-radius: 40px;
     cursor: pointer;
     flex-shrink: 0;
-    margin-top: 13px;
+    margin-top: 15px;
 }
